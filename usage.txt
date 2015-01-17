@@ -1,0 +1,19 @@
+run:
+  drag "skype_type_helper.ps1" over "Windows PowerShell ISE (x86)"
+  ctrl+I
+  ctrl+A
+  ctrl+C
+  ctrl+D
+  ctrl+V
+  enter
+
+compute my top 9 current chat messsages: ctrl+~
+insert first top message to chat: ctrl+1
+insert second top message to chat: ctrl+2
+insert third top message to chat: ctrl+3
+insert fourth top message to chat: ctrl+4
+insert fifth top message to chat: ctrl+5
+insert sixth top message to chat: ctrl+6
+insert seventh top message to chat: ctrl+7
+insert eighth top message to chat: ctrl+8
+insert ninth top message to chat: ctrl+9
